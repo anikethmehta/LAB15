@@ -148,4 +148,33 @@ If you're done, leave the restaurant (or the program in this case).
 
 Code:
 
+https://github.com/anikethmehta/LAB15/blob/main/code1.png
+
+https://github.com/anikethmehta/LAB15/blob/main/code2.png
+
+https://github.com/anikethmehta/LAB15/blob/main/code3.png
+
+https://github.com/anikethmehta/LAB15/blob/main/code4.png
+
+https://github.com/anikethmehta/LAB15/blob/main/code5.png
+
+https://github.com/anikethmehta/LAB15/blob/main/code6.png
+
+https://github.com/anikethmehta/LAB15/blob/main/code7.png
+
+https://github.com/anikethmehta/LAB15/blob/main/code8.png
+
+https://github.com/anikethmehta/LAB15/blob/main/code9.png
+
 Output:
+
+https://github.com/anikethmehta/LAB15/blob/main/output1.png
+
+https://github.com/anikethmehta/LAB15/blob/main/output2.png
+
+https://github.com/anikethmehta/LAB15/blob/main/output3.png
+
+https://github.com/anikethmehta/LAB15/blob/main/output4.png
+
+https://github.com/anikethmehta/LAB15/blob/main/output5.png
+
